@@ -1,0 +1,33 @@
+# Byte-code files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.swp
+
+# Virtual environment
+.env
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE specific files
+.idea/  # JetBrains IDEs (PyCharm, etc)
+.vscode/ # Visual Studio Code
+
+# build artifacts
+dist/
+build/
+*.egg-info/
+
+# specific files to ignore
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+# other temporary files or logs
+*.log
+local_settings.py
+db.sqlite3

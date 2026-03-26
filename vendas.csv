@@ -1,0 +1,121 @@
+Data,Produto,Quantidade,Preco_Unitario,Vendedor,Cliente,Total_Venda
+01/03/2026,Carregador USB-C,8,1999.9,João Silva,Cliente Varejo,15999.2
+01/03/2026,Power Bank,1,129.9,Lucas Mendes,Revenda Três Lagoas,129.9
+01/03/2026,Mouse Sem Fio,8,349.9,Pedro Santos,Cliente Final,2799.2
+02/03/2026,HD Externo 1TB,5,249.9,João Silva,Cliente Varejo,1249.5
+02/03/2026,Webcam,8,349.9,Pedro Santos,Revenda Três Lagoas,2799.2
+02/03/2026,Caixa de Som Bluetooth,7,89.9,João Silva,Cliente Final,629.3000000000001
+02/03/2026,"Monitor 24""",9,499.9,Lucas Mendes,Loja Eletrônicos SP,4499.099999999999
+02/03/2026,Carregador USB-C,4,199.9,Lucas Mendes,Loja Eletrônicos SP,799.6
+03/03/2026,Notebook Lenovo,10,89.9,Ana Costa,Loja Eletrônicos SP,899.0
+03/03/2026,Power Bank,1,349.9,Ana Costa,Loja Eletrônicos SP,349.9
+03/03/2026,Webcam,6,499.9,Maria Oliveira,Loja Eletrônicos SP,2999.3999999999996
+03/03/2026,Celular Samsung,8,899.9,João Silva,Empresa Pequena,7199.2
+03/03/2026,Carregador USB-C,1,499.9,Pedro Santos,Loja Eletrônicos SP,499.9
+04/03/2026,Celular Xiaomi,5,2499.9,João Silva,Revenda Três Lagoas,12499.5
+04/03/2026,Webcam,9,2499.9,Ana Costa,Loja Local,22499.100000000002
+04/03/2026,Capa de Celular,7,349.9,João Silva,Cliente Final,2449.2999999999997
+04/03/2026,Fone de Ouvido Bluetooth,8,129.9,Ana Costa,Loja Eletrônicos SP,1039.2
+04/03/2026,HD Externo 1TB,4,499.9,Pedro Santos,Loja Local,1999.6
+04/03/2026,Notebook Lenovo,1,899.9,Ana Costa,Loja Eletrônicos SP,899.9
+05/03/2026,Notebook Lenovo,3,1999.9,Ana Costa,Empresa Pequena,5999.700000000001
+06/03/2026,Mouse Sem Fio,3,89.9,João Silva,E-commerce Brasil,269.70000000000005
+06/03/2026,Tablet,7,89.9,João Silva,Revenda Andradina,629.3000000000001
+07/03/2026,Capa de Celular,9,2499.9,Lucas Mendes,Revenda Andradina,22499.100000000002
+07/03/2026,Impressora Multifuncional,4,899.9,Maria Oliveira,Cliente Final,3599.6
+07/03/2026,Carregador USB-C,7,2499.9,Maria Oliveira,Cliente Final,17499.3
+07/03/2026,Fone de Ouvido Bluetooth,7,899.9,João Silva,Cliente Final,6299.3
+07/03/2026,Celular Samsung,10,129.9,Maria Oliveira,Cliente Varejo,1299.0
+07/03/2026,"Monitor 24""",5,249.9,Pedro Santos,Cliente Final,1249.5
+08/03/2026,Celular Samsung,3,349.9,Lucas Mendes,Cliente Varejo,1049.6999999999998
+08/03/2026,Capa de Celular,8,199.9,Ana Costa,Revenda Três Lagoas,1599.2
+08/03/2026,"Monitor 24""",3,129.9,Lucas Mendes,Empresa Pequena,389.70000000000005
+08/03/2026,Impressora Multifuncional,7,2499.9,Maria Oliveira,Cliente Varejo,17499.3
+08/03/2026,Capa de Celular,3,349.9,Pedro Santos,Loja Local,1049.6999999999998
+08/03/2026,Tablet,6,1999.9,Ana Costa,E-commerce Brasil,11999.400000000001
+08/03/2026,Capa de Celular,9,129.9,Ana Costa,Cliente Varejo,1169.1000000000001
+08/03/2026,Capa de Celular,5,1499.9,Pedro Santos,Cliente Varejo,7499.5
+09/03/2026,Capa de Celular,9,1999.9,Pedro Santos,Empresa Pequena,17999.100000000002
+09/03/2026,Tablet,1,349.9,Ana Costa,Cliente Varejo,349.9
+09/03/2026,Caixa de Som Bluetooth,4,899.9,Pedro Santos,Loja Local,3599.6
+09/03/2026,Notebook Lenovo,3,2499.9,Ana Costa,Revenda Três Lagoas,7499.700000000001
+10/03/2026,Tablet,4,349.9,Pedro Santos,Loja Local,1399.6
+10/03/2026,Notebook Lenovo,6,129.9,João Silva,Cliente Final,779.4000000000001
+10/03/2026,HD Externo 1TB,3,2499.9,João Silva,Cliente Varejo,7499.700000000001
+11/03/2026,Power Bank,1,349.9,Lucas Mendes,E-commerce Brasil,349.9
+11/03/2026,Power Bank,6,349.9,Lucas Mendes,Empresa Pequena,2099.3999999999996
+11/03/2026,HD Externo 1TB,2,499.9,Pedro Santos,Loja Eletrônicos SP,999.8
+11/03/2026,Notebook Lenovo,2,89.9,Maria Oliveira,Loja Eletrônicos SP,179.8
+12/03/2026,Webcam,1,1499.9,Ana Costa,Cliente Varejo,1499.9
+12/03/2026,Impressora Multifuncional,10,129.9,Maria Oliveira,Cliente Varejo,1299.0
+12/03/2026,Mouse Sem Fio,1,2499.9,Maria Oliveira,Loja Eletrônicos SP,2499.9
+12/03/2026,Carregador USB-C,5,199.9,Pedro Santos,Revenda Andradina,999.5
+12/03/2026,Tablet,3,129.9,Lucas Mendes,Loja Eletrônicos SP,389.70000000000005
+12/03/2026,Caixa de Som Bluetooth,3,499.9,Pedro Santos,Revenda Andradina,1499.6999999999998
+12/03/2026,Teclado Mecânico,6,899.9,Lucas Mendes,Cliente Varejo,5399.4
+13/03/2026,Webcam,4,1999.9,Ana Costa,Cliente Final,7999.6
+13/03/2026,Power Bank,4,2499.9,Ana Costa,Cliente Final,9999.6
+13/03/2026,"Monitor 24""",2,89.9,Pedro Santos,Cliente Final,179.8
+14/03/2026,Webcam,4,899.9,Maria Oliveira,Revenda Andradina,3599.6
+14/03/2026,Teclado Mecânico,2,199.9,João Silva,E-commerce Brasil,399.8
+14/03/2026,Capa de Celular,8,249.9,Lucas Mendes,Loja Eletrônicos SP,1999.2
+14/03/2026,Fone de Ouvido Bluetooth,2,1499.9,João Silva,Loja Eletrônicos SP,2999.8
+15/03/2026,Impressora Multifuncional,3,199.9,Maria Oliveira,E-commerce Brasil,599.7
+15/03/2026,Impressora Multifuncional,6,199.9,Ana Costa,Cliente Final,1199.4
+15/03/2026,Tablet,4,899.9,João Silva,Cliente Final,3599.6
+15/03/2026,Mouse Sem Fio,7,89.9,João Silva,Loja Eletrônicos SP,629.3000000000001
+15/03/2026,"Monitor 24""",5,899.9,Lucas Mendes,E-commerce Brasil,4499.5
+15/03/2026,"Monitor 24""",6,249.9,Pedro Santos,E-commerce Brasil,1499.4
+15/03/2026,Webcam,9,129.9,Maria Oliveira,E-commerce Brasil,1169.1000000000001
+15/03/2026,Caixa de Som Bluetooth,1,899.9,Lucas Mendes,Revenda Andradina,899.9
+16/03/2026,HD Externo 1TB,4,499.9,João Silva,Revenda Andradina,1999.6
+16/03/2026,Capa de Celular,6,499.9,Ana Costa,Revenda Andradina,2999.3999999999996
+16/03/2026,Webcam,2,199.9,Ana Costa,Cliente Varejo,399.8
+17/03/2026,Fone de Ouvido Bluetooth,6,899.9,Lucas Mendes,Loja Eletrônicos SP,5399.4
+17/03/2026,Mouse Sem Fio,2,1499.9,Lucas Mendes,E-commerce Brasil,2999.8
+17/03/2026,HD Externo 1TB,1,1999.9,João Silva,E-commerce Brasil,1999.9
+18/03/2026,Notebook Lenovo,5,499.9,João Silva,E-commerce Brasil,2499.5
+18/03/2026,HD Externo 1TB,6,349.9,Pedro Santos,Revenda Andradina,2099.3999999999996
+18/03/2026,Celular Samsung,1,199.9,Maria Oliveira,Revenda Andradina,199.9
+18/03/2026,Webcam,8,2499.9,Maria Oliveira,Revenda Três Lagoas,19999.2
+18/03/2026,Fone de Ouvido Bluetooth,2,1499.9,Lucas Mendes,Cliente Varejo,2999.8
+19/03/2026,Capa de Celular,6,2499.9,Lucas Mendes,Cliente Final,14999.400000000001
+19/03/2026,"Monitor 24""",6,89.9,Ana Costa,Loja Eletrônicos SP,539.4000000000001
+19/03/2026,HD Externo 1TB,3,499.9,Pedro Santos,Revenda Andradina,1499.6999999999998
+19/03/2026,Capa de Celular,8,89.9,Pedro Santos,Loja Local,719.2
+20/03/2026,Tablet,4,349.9,Lucas Mendes,Empresa Pequena,1399.6
+20/03/2026,Tablet,10,1499.9,Pedro Santos,Revenda Três Lagoas,14999.0
+20/03/2026,Caixa de Som Bluetooth,4,89.9,Maria Oliveira,Cliente Varejo,359.6
+21/03/2026,"Monitor 24""",3,2499.9,Pedro Santos,Loja Local,7499.700000000001
+21/03/2026,Carregador USB-C,7,2499.9,Maria Oliveira,Revenda Andradina,17499.3
+21/03/2026,Celular Samsung,7,129.9,João Silva,Loja Local,909.3000000000001
+21/03/2026,Tablet,9,2499.9,João Silva,Loja Eletrônicos SP,22499.100000000002
+21/03/2026,Notebook Lenovo,1,199.9,Ana Costa,E-commerce Brasil,199.9
+21/03/2026,Celular Samsung,6,1999.9,João Silva,Empresa Pequena,11999.400000000001
+21/03/2026,Impressora Multifuncional,2,249.9,Lucas Mendes,Loja Eletrônicos SP,499.8
+21/03/2026,Carregador USB-C,2,89.9,João Silva,Revenda Andradina,179.8
+22/03/2026,HD Externo 1TB,8,499.9,Maria Oliveira,Revenda Andradina,3999.2
+22/03/2026,Teclado Mecânico,3,249.9,Pedro Santos,Revenda Três Lagoas,749.7
+22/03/2026,Mouse Sem Fio,3,199.9,Pedro Santos,Revenda Andradina,599.7
+22/03/2026,Webcam,8,2499.9,Ana Costa,Loja Local,19999.2
+23/03/2026,Celular Samsung,3,1499.9,Ana Costa,E-commerce Brasil,4499.700000000001
+23/03/2026,"Monitor 24""",1,89.9,Ana Costa,Loja Eletrônicos SP,89.9
+23/03/2026,"Monitor 24""",4,2499.9,João Silva,Revenda Três Lagoas,9999.6
+24/03/2026,Power Bank,10,349.9,Pedro Santos,Revenda Três Lagoas,3499.0
+24/03/2026,Webcam,1,89.9,Lucas Mendes,Loja Eletrônicos SP,89.9
+24/03/2026,HD Externo 1TB,1,89.9,Lucas Mendes,Loja Eletrônicos SP,89.9
+24/03/2026,Carregador USB-C,9,899.9,Ana Costa,Loja Eletrônicos SP,8099.099999999999
+24/03/2026,Celular Xiaomi,2,199.9,Lucas Mendes,Cliente Varejo,399.8
+24/03/2026,Teclado Mecânico,7,1499.9,Maria Oliveira,Loja Eletrônicos SP,10499.300000000001
+25/03/2026,Caixa de Som Bluetooth,3,1499.9,Lucas Mendes,Revenda Três Lagoas,4499.700000000001
+25/03/2026,Teclado Mecânico,1,349.9,Ana Costa,Revenda Três Lagoas,349.9
+25/03/2026,Celular Samsung,4,1499.9,Pedro Santos,Cliente Varejo,5999.6
+25/03/2026,Impressora Multifuncional,7,1999.9,Ana Costa,Loja Eletrônicos SP,13999.300000000001
+25/03/2026,Celular Samsung,9,249.9,Maria Oliveira,E-commerce Brasil,2249.1
+25/03/2026,Celular Samsung,8,89.9,Maria Oliveira,Empresa Pequena,719.2
+26/03/2026,Caixa de Som Bluetooth,6,499.9,João Silva,Loja Local,2999.3999999999996
+26/03/2026,Fone de Ouvido Bluetooth,8,89.9,Lucas Mendes,Loja Local,719.2
+26/03/2026,Mouse Sem Fio,1,899.9,Lucas Mendes,Loja Local,899.9
+26/03/2026,Capa de Celular,4,2499.9,Maria Oliveira,E-commerce Brasil,9999.6
+26/03/2026,Capa de Celular,9,249.9,Pedro Santos,Empresa Pequena,2249.1
+26/03/2026,HD Externo 1TB,1,199.9,Lucas Mendes,E-commerce Brasil,199.9
