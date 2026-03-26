@@ -41,4 +41,4 @@ Lojistas e contadores perdem muito tempo somando colunas, criando gráficos e en
 ![Grafico_Vendedores](grafico_vendedores.png)
 
 ### Quer uma versão personalizada para o seu negócio?
-Entre em contato: WhatsApp [seu número] ou pelo 99Freelas.
+Entre em contato: WhatsApp (18)99614-5924 ou pelo 99Freelas https://www.99freelas.com.br/user/albertoribeiroalfredo
